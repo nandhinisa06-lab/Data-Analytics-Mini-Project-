@@ -10,3 +10,5 @@ This project is developed using Python for data analysis and visualization. The 
 
 ## Output
 The program successfully analyzes the dataset and displays the results through visualizations and statistical summaries.
+## Sample Output
+(sample output.jpg)
